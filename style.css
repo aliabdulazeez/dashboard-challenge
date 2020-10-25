@@ -85,6 +85,10 @@ body{
     width: 100%;
 }
 
-.admin{
-    width: 5rem;
+.nav-item{
+    padding: 0 5px;
+}
+
+.user{
+    margin-left: 5px;
 }
